@@ -11,7 +11,7 @@ class Welcome extends React.Component {
 class App extends Component {
   render() {
     return (
-    <Welcome name= {"crytodash"} />
+    <Welcome name= {"crytodash1"} />
   );
     }
 }
